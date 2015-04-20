@@ -12,4 +12,9 @@
     <%- partial('_partial/after-footer') %>
   </div>
 </body>
+<script>
+    var Today = new Date();
+    $(".bing").backstretch("http://7vztvx.com1.z0.glb.clouddn.com/bing.jpg?imageView2/2/h/180" +
+    "&_=" + Today.getFullYear()+Today.getMonth()+Today.getDay()+Today.getHours());
+</script>
 </html>

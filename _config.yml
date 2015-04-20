@@ -6,12 +6,12 @@ menu:
 
 # SubNav
 subnav:
-  github: "#"
-  weibo: "#"
-  rss: "#"
-  zhihu: "#"
+  #github: "#"
+  weibo: "http://weibo.com/207330777"
+  rss: "/atom.xml"
+  #zhihu: "#"
   #douban: "#"
-  #mail: "#"
+  #mail: "7@mr-se7en.com"
   #facebook: "#"
   #google: "#"
   #twitter: "#"
@@ -22,19 +22,19 @@ rss: /atom.xml
 # Content
 excerpt_link: more
 fancybox: true
-mathjax: true
+mathjax: false
 
 # Miscellaneous
-google_analytics: ''
-favicon: /favicon.png
+google_analytics: 'UA-60229050-1'
+favicon: /favicon.ico
 
 #你的头像url
-avatar: ""
+avatar: "http://cn.gravatar.com/avatar/2d5af7827258d4d7c3deafd112a446fd?s=200"
 #是否开启分享
-share: true
+share: false
 #是否开启多说评论，填写你在多说申请的项目名称 duoshuo: duoshuo-key
 #若使用disqus，请在博客config文件中填写disqus_shortname，并关闭多说评论
-duoshuo: true
+duoshuo: emo7
 #是否开启云标签
 tagcloud: true
 
@@ -43,15 +43,17 @@ tagcloud: true
 #friends: false
 #开启——
 friends:
-  奥巴马的博客: http://localhost:4000/
-  卡卡的美丽传说: http://localhost:4000/
-  本泽马的博客: http://localhost:4000/
-  吉格斯的博客: http://localhost:4000/
-  习大大大不同: http://localhost:4000/
-  托蒂的博客: http://localhost:4000/
+  李云滨: https://liyunbin.com/
+  iiMX: http://iimx.net/
+  Mr·Lin: http://mrlin.net/
+  电子仓鼠: http://cangshu.tk/
+  科斯基摩: http://coskimo.com/
+#  吉格斯的博客: http://localhost:4000/
+#  习大大大不同: http://localhost:4000/
+#  托蒂的博客: http://localhost:4000/
 
 #是否开启“关于我”。
 #不开启——
 #aboutme: false
 #开启——
-aboutme: 我是谁，我从哪里来，我到哪里去？我就是我，是颜色不一样的吃货…
+aboutme: 诶？纳尼？┃電柱┃| ω・´) 这是关于一个精神分裂症患者的故事 (=ﾟωﾟ)=
